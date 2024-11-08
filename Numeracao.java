@@ -1,4 +1,4 @@
-class Numeracao { 
+public class Numeracao { 
    private static int seq = 0; 
    private int numero; 
 
